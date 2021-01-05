@@ -7,4 +7,4 @@ ZoomKontrol connects wirelessly to any iPad, Chromebook or other Bluetooth devic
 
 ZoomKontrol uses an ESP32 development board to simulate a bluetooth keyboard and execute Zoom compatible keyboard shortcuts at the touch of a button.
 
-Detailed build instructions are in the ZoomKontrol-instructions PDF in this repository or available here: https://docs.google.com/document/d/1E1c8e0VX80Z21c_bxWHuH6HKF56w0JPz2Y9CqAWMl74/edit?usp=sharing
+Detailed build instructions are in the ZoomKontrol-instructions PDF in this repository or available here: http://bit.ly/zoomkontrol
